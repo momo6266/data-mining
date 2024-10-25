@@ -1,0 +1,1 @@
+This Jupyter Notebook is created for collaborative data analysis and visualization, supporting data processing, statistical analysis, and reporting. Designed for group work, it enables interactive exploration and presentation of data insights.
